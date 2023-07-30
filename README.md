@@ -32,4 +32,5 @@
 - *git diff a9928ab 11bada1* — выведи разницу между двумя коммитами; <br>
 - *git diff --staged* — покажи изменения, которые добавлены в *staged*-файлах. <br>
 ## Шпаргалка по MarkDown <br>
-- https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c#h1 <br>
+- https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c#h1 <br>\
+## Продолжение следует... <br>
